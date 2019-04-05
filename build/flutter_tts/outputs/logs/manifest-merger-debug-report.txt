@@ -1,0 +1,21 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml:2:3-44
+		INJECTED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml:4:3-72
+INJECTED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml:4:3-72
+INJECTED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml:4:3-72
+	android:targetSdkVersion
+		ADDED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml:4:40-69
+	android:minSdkVersion
+		ADDED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml:4:13-39
+		INJECTED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/Taym/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.1.2/android/src/main/AndroidManifest.xml

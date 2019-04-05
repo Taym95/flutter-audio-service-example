@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:1:1-54:12
+MERGED from [:flutter_tts] /Users/Taym/flutter-audio-service-example/build/flutter_tts/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [:audioplayer] /Users/Taym/flutter-audio-service-example/build/audioplayer/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:audio_service] /Users/Taym/flutter-audio-service-example/build/audio_service/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/Taym/flutter-audio-service-example/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/81786f5f216ff4fea1f000428ef63537/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/566afa5c2869968a73a916325bdb53ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/43a147eda782b75d9ac82d6e424002fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7b0a9f85c376c448bc991b78d401e358/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e06e0f8aa3dd61c784b82075c5220b65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e68cbe9b04706fc094478a0e33e9f4c0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/94dff636b63e7e59e4c2af3f492653ec/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fc02847983800b184684a9b6c28b786f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d81f23a1d28c389e21b8594caa4a6bf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ad037d102c04243bfcdb46138ae94009/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:1:1-54:12
+	package
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:1:1-54:12
+		INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:1:1-54:12
+		INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:10:22-74
+application
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:17:5-53:19
+	android:label
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:19:9-43
+	android:icon
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.ryanheise.audioserviceexample.MainActivity
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:21:9-39:20
+	android:launchMode
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:23:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:26:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:27:13-55
+	android:configChanges
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:25:13-137
+	android:theme
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:22:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:32:13-34:40
+	android:value
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:34:17-37
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:33:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:37:27-74
+service#com.ryanheise.audioservice.AudioService
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:41:9-45:19
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:41:18-72
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:42:13-44:29
+action#android.media.browse.MediaBrowserService
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:43:17-83
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:43:25-80
+receiver#android.support.v4.media.session.MediaButtonReceiver
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:47:9-51:20
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:47:19-86
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:48:13-50:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml:49:25-74
+uses-sdk
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_tts] /Users/Taym/flutter-audio-service-example/build/flutter_tts/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_tts] /Users/Taym/flutter-audio-service-example/build/flutter_tts/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:audioplayer] /Users/Taym/flutter-audio-service-example/build/audioplayer/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:audioplayer] /Users/Taym/flutter-audio-service-example/build/audioplayer/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:audio_service] /Users/Taym/flutter-audio-service-example/build/audio_service/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:audio_service] /Users/Taym/flutter-audio-service-example/build/audio_service/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/Taym/flutter-audio-service-example/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/Taym/flutter-audio-service-example/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/81786f5f216ff4fea1f000428ef63537/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/81786f5f216ff4fea1f000428ef63537/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/566afa5c2869968a73a916325bdb53ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/566afa5c2869968a73a916325bdb53ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/43a147eda782b75d9ac82d6e424002fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/43a147eda782b75d9ac82d6e424002fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7b0a9f85c376c448bc991b78d401e358/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7b0a9f85c376c448bc991b78d401e358/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e06e0f8aa3dd61c784b82075c5220b65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e06e0f8aa3dd61c784b82075c5220b65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e68cbe9b04706fc094478a0e33e9f4c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Taym/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e68cbe9b04706fc094478a0e33e9f4c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/94dff636b63e7e59e4c2af3f492653ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/94dff636b63e7e59e4c2af3f492653ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fc02847983800b184684a9b6c28b786f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fc02847983800b184684a9b6c28b786f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d81f23a1d28c389e21b8594caa4a6bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5d81f23a1d28c389e21b8594caa4a6bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ad037d102c04243bfcdb46138ae94009/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Taym/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ad037d102c04243bfcdb46138ae94009/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Taym/flutter-audio-service-example/android/app/src/main/AndroidManifest.xml

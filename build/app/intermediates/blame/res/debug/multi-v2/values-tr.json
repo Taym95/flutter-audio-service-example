@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Taym/flutter-audio-service-example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
+            "map": [
+                {
+                    "source": "/Users/Taym/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e68cbe9b04706fc094478a0e33e9f4c0/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
